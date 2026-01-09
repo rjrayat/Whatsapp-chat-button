@@ -1,5 +1,8 @@
 # Whatsapp-chat-button
 ```
+import { FaWhatsapp } from 'react-icons/fa';
+```
+```
 {/* WhatsApp Button */}
       <a
         href="https://wa.me/8801845058879" // Your provided number
